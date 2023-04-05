@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+	int c = 0, count = 0; char s[1000];
+	printf("input a string\n");gets(s);
+	printf("number of vowels in the string: %d", count);
+	return 0;
+}
